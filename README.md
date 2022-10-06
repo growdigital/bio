@@ -1,5 +1,5 @@
-# Template
+# Bio
 
-CAD template files for template project
+CAD plan for biodynamic orchard
 
-<https://notes.grwd.uk/>
+<https://notes.grwd.uk/bio>
